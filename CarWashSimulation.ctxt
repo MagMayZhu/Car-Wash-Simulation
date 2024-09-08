@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=CarWashSimulation
+comment0.text=\n\ \ This\ class\ is\ a\ template,\ or\ starting\ point,\ for\n\ \ a\ class\ that\ will\ manage\ the\ simulation\ of\ cars\ arriving\ at\ a\ car\n\ \ wash,\ waiting\ in\ line,\ and\ going\ through\ the\ wash\ cycle.\n\n
+comment1.params=time
+comment1.target=CarWashSimulation(int)
+comment1.text=Construct\ a\ car\ wash\ simulation\ object.
+comment2.params=
+comment2.target=void\ step()
+comment2.text=\ Execute\ a\ single\ step\ of\ the\ simulation.\n
+comment3.params=runTime
+comment3.target=void\ run(int)
+comment3.text=\ Run\ the\ simulation\ for\ a\ specified\ number\ of\ minutes\ (or\ whatever\ the\n\ \ unit\ for\ a\ single\ step\ of\ the\ simulation\ is).\n\ \ @param\ minutesToRun\ the\ number\ of\ steps\ of\ the\ simulation\ to\ run\n
+numComments=4

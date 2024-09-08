@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=LLQueues
+comment0.text=\n\ Give\ the\ method\ purpose.\ For\ example\ enqueue\ method\ adds\ the\ last\ item.\ \n\n\ @author\ (Maggie\ Zhu\ and\ Anna\ Phyo)\n\ @version\ (4-22-24)\n
+comment1.params=
+comment1.target=LLQueues()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ LLQueues\n
+comment2.params=
+comment2.target=boolean\ isEmpty()
+comment2.text=\ Returns\ <code>true</code>\ if\ this\ queue\ is\ empty;\n\ \ <code>false</code>\ otherwise.\n
+comment3.params=item
+comment3.target=void\ enqueue(java.lang.Object)
+comment3.text=\ Adds\ a\ specified\ object\ to\ the\ "back"\ of\ this\ queue.\n\ \ \ \ @param\ item\ -\ the\ object\ to\ add\ to\ the\ queue\n
+comment4.params=
+comment4.target=java.lang.Object\ dequeue()
+comment4.text=\ Removes\ the\ element\ at\ the\ "front"\ of\ this\ queue.\n\ \ \ \ @returns\ the\ removed\ element\n\ \ \ \ @throws\ NoSuchElementException\ if\ the\ queue\ is\ empty\n
+comment5.params=
+comment5.target=java.lang.Object\ peekFront()
+comment5.text=\ Returns\ the\ element\ at\ the\ "front"\ of\ this\ queue,\ without\n\ \ modifying\ the\ queue.\n\ \ \ \ @returns\ the\ element\ at\ the\ front\ of\ the\ queue\n\ \ \ \ @throws\ NoSuchElementException\ if\ the\ queue\ is\ empty\n
+comment6.params=
+comment6.target=int\ Size()
+comment7.params=
+comment7.target=java.lang.String\ toString()
+comment7.text=\n\ method\ that\ gets\ the\ current\ state\ of\ the\ queue\ \n\ return\ the\ current\ state\ of\ queue\ in\ a\ single\ string.\ \n
+numComments=8

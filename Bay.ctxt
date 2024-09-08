@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Bay
+comment0.text=\n\ \ This\ class\ represents\ a\ car\ wash\ bay\ in\ the\ Car\ Wash\ program.\ \ In\n\ \ particular,\ it\ keeps\ track\ of\ when\ the\ bay\ is\ empty\ or,\ if\n\ \ there\ is\ a\ car\ being\ washed,\ how\ long\ it\ will\ be\ until\ the\ bay\n\ \ is\ empty\ again.\n\ @author\ Maggie\ Zhu\n\ @version\ 5-6-24\n
+comment1.params=durationOfCarWash
+comment1.target=Bay(int)
+comment1.text=Construct\ a\ Car\ Wash\ Bay
+comment2.params=
+comment2.target=void\ reset()
+comment2.text=Re-initialize\ the\ bay\ for\ the\ start\ of\ a\ new\ run\ of\ the\ simulation.
+comment3.params=
+comment3.target=boolean\ isEmpty()
+comment3.text=Is\ the\ bay\ empty,\ or\ is\ there\ a\ car\ in\ it\ being\ washed?
+comment4.params=
+comment4.target=void\ startWash()
+comment4.text=\ Start\ washing\ a\ new\ car.\ \ This\ function\ sets\ the\ timer\ to\ show\ how\n\ \ many\ more\ minutes\ it\ will\ take\ to\ finish\ washing\ this\ new\ car.\ \n
+comment5.params=
+comment5.target=void\ keepWashing()
+comment5.text=\ This\ function\ tells\ the\ bay\ about\ the\ passage\ of\ time\ as\ it\ washes\n\ \ a\ car.\n
+numComments=6
